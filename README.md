@@ -34,7 +34,6 @@ The development of this RingCode follow the [thesis of Robin Brügger](https://w
 Encoding
 - [x] Create encoder
 - [x] Simple Streamlit App to display the encoding
-<br>
 
 Decoding
 - [x] Barcode recognition (finding the center)
