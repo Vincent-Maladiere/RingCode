@@ -1,0 +1,40 @@
+.stTextInput>div>div>input {
+    color: #000;
+    background-color: #FFF;
+    font-family:'Gill Sans';
+    font-size:200%;
+    border: 4px solid #0033e8;
+    text-align: center;
+    outline: none;
+    box-shadow: none;
+}
+
+.stTextInput>div>div {
+    border: 4px solide #0033e8;
+    outline: none;
+    box-shadow: none;
+}
+
+.stTextInput>div> {
+    border: 4px solide #0033e8;
+    outline: none;
+    box-shadow: none;
+}
+
+*:focus{
+    outline: none;
+    box-shadow: none;
+}
+
+
+div[data-testid="stMarkdownContainer"] > p {
+    background-color: #0033e8;
+    font-family: 'Gill Sans';
+    display: flex;
+    align-items: center;
+    color: #FFF;
+    height: 50px;
+    padding-left: 30%;
+    margin-top: -30px;
+    font-size: 130%;
+  }
