@@ -1,4 +1,4 @@
-# Avalanche Ring-Code App
+# Ring-Code App
 
 ![Beautiful App](img/render.png)
 
@@ -31,14 +31,15 @@ You can play with 3 hyperparameters to change the data capacity and the shape of
 
 The development of this RingCode follow the [thesis of Robin Brügger](https://www.dropbox.com/s/a62q4lotoyonnv7/P6_2015_Circular_Codes.pdf?dl=0), so hat tips to him for this impressive work.
 
-[x] Encoding
-[x] Simple Streamlit App to display the encoding
-[] Decoding
+[x] Encoding <br>
+[x] Simple Streamlit App to display the encoding <br>
+[ ] Decoding <br>
 - [x] Barcode recognition (finding the center)
-- [] Find the perspective correction markers and startmarker
-- [] Rough perspective correction
-- [] Accurate perspective correction
-- [] Read vertical timing information
-- [] Evaluation of the payload modules
-[] Encoding data using Reed Solomon algorithm
+- [ ] Find the perspective correction markers and startmarker
+- [ ] Rough perspective correction
+- [ ] Accurate perspective correction
+- [ ] Read vertical timing information
+- [ ] Evaluation of the payload modules
+<br>
+[ ] Encoding data using Reed Solomon algorithm
 
