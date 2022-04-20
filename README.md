@@ -12,6 +12,10 @@ Introducing a new circular-shaped design for barcode and QRCode! Beyond its aest
 
 You can use the Streamlit app to generate your own RingCode encoded messages! Please note that the decoding module is still under development.
 
+## Requirements
+
+- python > 3.6
+
 ## Setup
 
 ```
@@ -29,7 +33,7 @@ You can play with 3 hyperparameters to change the data capacity and the shape of
 
 ## Roadmap
 
-The development of this RingCode follow the [thesis of Robin Brügger](https://www.dropbox.com/s/a62q4lotoyonnv7/P6_2015_Circular_Codes.pdf?dl=0), so hat tips to him for this impressive work.
+The development of this RingCode follows the [thesis of Robin Brügger](https://www.dropbox.com/s/a62q4lotoyonnv7/P6_2015_Circular_Codes.pdf?dl=0), so hat tips to him for this impressive work.
 
 Encoding
 - [x] Create encoder
